@@ -1,0 +1,11 @@
+{
+  "name": "sap-business-ai-whatsapp-agent",
+  "version": "20.0.0",
+  "description": "Sovereign Conversational Gateway for SAP AI Features",
+  "main": "src/agent.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "ollama": "^0.1.7"
+  }
+}
